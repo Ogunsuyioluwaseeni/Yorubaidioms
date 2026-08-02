@@ -1,0 +1,210 @@
+[
+  {
+    "id": "yowe-001",
+    "yoruba": "Ilé la ti ń kọ́ ẹ̀ṣọ́ rẹ̀ wọ̀de",
+    "literalGloss": "It is from home that we wear good character to go outside",
+    "figurativeSense": "Good character, discipline, and moral values must be cultivated within the family before showing them in public.",
+    "englishEquivalents": [
+      "Charity begins at home",
+      "Good character begins at home",
+      "Manners begin at home"
+    ],
+    "register": "proverbial",
+    "usageNote": "Used when reminding someone that personal discipline or reputation starts from home.",
+    "isProverb": true,
+    "sourceNote": "seed placeholder — needs native-speaker review before production use",
+    "verified": false
+  },
+  {
+    "id": "yowe-002",
+    "yoruba": "Agbà kì í wà lọ́jà kàran orí ẹran wọ́",
+    "literalGloss": "An elder does not stay in the market while a baby goat's head twists on the mother's neck",
+    "figurativeSense": "Elders, leaders, or experienced people must step in to prevent chaos, ruin, or injustice.",
+    "englishEquivalents": [
+      "Leaders must take responsibility in a crisis",
+      "Elders do not allow chaos to reign",
+      "Wisdom intervenes before ruin"
+    ],
+    "register": "formal",
+    "usageNote": "Invoked when urging senior community members to resolve a growing dispute.",
+    "isProverb": true,
+    "sourceNote": "seed placeholder — needs native-speaker review before production use",
+    "verified": false
+  },
+  {
+    "id": "yowe-003",
+    "yoruba": "Bí ó ti wù kí ó rí, adìẹ kì í sun le ebi",
+    "literalGloss": "No matter how bad things get, a chicken never sleeps with hunger",
+    "figurativeSense": "No matter how dire circumstances seem, a person will always find a basic way to survive.",
+    "englishEquivalents": [
+      "Life always finds a way",
+      "There is always hope for survival",
+      "Where there is life there is hope"
+    ],
+    "register": "colloquial",
+    "usageNote": "Said to encourage someone undergoing financial or personal hardship.",
+    "isProverb": true,
+    "sourceNote": "seed placeholder — needs native-speaker review before production use",
+    "verified": false
+  },
+  {
+    "id": "yowe-004",
+    "yoruba": "Ile ọbẹ ni ilẹ́ gbé ń kú",
+    "literalGloss": "It is inside the soup pot that a fly meets its death",
+    "figurativeSense": "Greed, uncontrolled appetite, or pursuit of forbidden pleasures leads to a person's downfall.",
+    "englishEquivalents": [
+      "Greed brings destruction",
+      "Gluttony leads to downfall",
+      "Curiosity killed the cat"
+    ],
+    "register": "proverbial",
+    "usageNote": "A warning against letting desire override safety and prudence.",
+    "isProverb": true,
+    "sourceNote": "seed placeholder — needs native-speaker review before production use",
+    "verified": false
+  },
+  {
+    "id": "yowe-005",
+    "yoruba": "Aì fọ̀rọ̀ lò 'ra ẹni ni í pa ìpàdé",
+    "literalGloss": "Failure to consult with one another is what destroys a meeting",
+    "figurativeSense": "Lack of communication, mutual consultation, and transparency destroys teamwork and unity.",
+    "englishEquivalents": [
+      "Communication is key to agreement",
+      "Lack of consultation causes failure",
+      "Consultation breeds harmony"
+    ],
+    "register": "formal",
+    "usageNote": "Used in governance, business, or family meetings to highlight the importance of consensus.",
+    "isProverb": true,
+    "sourceNote": "seed placeholder — needs native-speaker review before production use",
+    "verified": false
+  },
+  {
+    "id": "yowe-006",
+    "yoruba": "Ọpọ́lọ́ kò ní ìrù, ẹni ti ó pè é ní ìrù ó pa irọ́",
+    "literalGloss": "A toad has no tail; anyone who says a toad has a tail lies",
+    "figurativeSense": "Objective truths cannot be changed by false testimony; plain facts remain plain facts.",
+    "englishEquivalents": [
+      "Truth stands on its own",
+      "Facts speak louder than lies",
+      "You cannot disguise the truth"
+    ],
+    "register": "colloquial",
+    "usageNote": "Spoken when dispelling obvious falsehoods or slander.",
+    "isProverb": true,
+    "sourceNote": "seed placeholder — needs native-speaker review before production use",
+    "verified": false
+  },
+  {
+    "id": "yowe-007",
+    "yoruba": "Ẹni tí ó rán ni nísẹ́ ni a ń bẹ̀rù, a kì í bẹ̀rù ẹni tí a rán níṣẹ́",
+    "literalGloss": "It is the one who sent us on an errand we fear, not the errand itself",
+    "figurativeSense": "Loyalty, duty, and respect to authority outweigh fear of the difficulty of the assignment.",
+    "englishEquivalents": [
+      "Fear the commander not the mission",
+      "Duty overrides fear",
+      "Authority commands respect"
+    ],
+    "register": "proverbial",
+    "usageNote": "Used by emissaries or workers explaining why they must carry out a difficult task.",
+    "isProverb": true,
+    "sourceNote": "seed placeholder — needs native-speaker review before production use",
+    "verified": false
+  },
+  {
+    "id": "yowe-008",
+    "yoruba": "Bí ẹmọ́ kò ṣe ẹmọ́, ẹmọ́ kì í wọ ilé",
+    "literalGloss": "If something strange has not occurred, a strange creature does not enter the home",
+    "figurativeSense": "Unusual outcomes always have an underlying root cause; there is no smoke without fire.",
+    "englishEquivalents": [
+      "There is no smoke without fire",
+      "Every anomaly has a cause",
+      "Strange events have deeper roots"
+    ],
+    "register": "proverbial",
+    "usageNote": "Used when investigating the origin of an unexpected crisis or event.",
+    "isProverb": true,
+    "sourceNote": "seed placeholder — needs native-speaker review before production use",
+    "verified": false
+  },
+  {
+    "id": "yowe-009",
+    "yoruba": "A kì í fi ojú ẹja tọ́rọ̀ ẹja",
+    "literalGloss": "We do not ask a fish for a favor by staring at the fish's eye",
+    "figurativeSense": "Approach negotiations pragmatically and realistically, rather than relying on sentimentality.",
+    "englishEquivalents": [
+      "Be direct in negotiation",
+      "Don't count on emotional appeal",
+      "Business is business"
+    ],
+    "register": "proverbial",
+    "usageNote": "Said in trade or bargaining to emphasize objective terms over sentimental pleading.",
+    "isProverb": true,
+    "sourceNote": "seed placeholder — needs native-speaker review before production use",
+    "verified": false
+  },
+  {
+    "id": "yowe-010",
+    "yoruba": "Ojú kò ní rí ibi",
+    "literalGloss": "The eyes will not see evil or misfortune",
+    "figurativeSense": "A common Yorùbá blessing or wish for safety, protection, and immunity from tragedy.",
+    "englishEquivalents": [
+      "May you be spared from evil",
+      "May no harm come your way",
+      "God protect you"
+    ],
+    "register": "colloquial",
+    "usageNote": "Used as a traditional greeting or parting prayer.",
+    "isProverb": false,
+    "sourceNote": "seed placeholder — needs native-speaker review before production use",
+    "verified": false
+  },
+  {
+    "id": "yowe-011",
+    "yoruba": "Bí ẹ̀mí bá wà, ìrètí ń bẹ",
+    "literalGloss": "If life exists, hope exists",
+    "figurativeSense": "As long as one is alive, there is always hope for recovery, restoration, and better days.",
+    "englishEquivalents": [
+      "Where there is life there is hope",
+      "Never lose hope",
+      "While there is life there is hope"
+    ],
+    "register": "colloquial",
+    "usageNote": "Used as an uplifting phrase when comforting someone in despair.",
+    "isProverb": true,
+    "sourceNote": "seed placeholder — needs native-speaker review before production use",
+    "verified": false
+  },
+  {
+    "id": "yowe-012",
+    "yoruba": "A kì í mọ̀ ẹ̀kọ́ kọ́ ni kí a tún fi ojú gún ẹṣin",
+    "literalGloss": "One does not master riding and then gallop a horse into a pit with eyes open",
+    "figurativeSense": "Skill and expertise should bring prudence, not careless overconfidence.",
+    "englishEquivalents": [
+      "Pride goes before a fall",
+      "Overconfidence breeds ruin",
+      "Carelessness undoes expertise"
+    ],
+    "register": "proverbial",
+    "usageNote": "A reminder for experts not to skip basic safety precautions.",
+    "isProverb": true,
+    "sourceNote": "seed placeholder — needs native-speaker review before production use",
+    "verified": false
+  },
+  {
+    "id": "yowe-013",
+    "yoruba": "Ẹni tí ó gbé kẹ̀kẹ́ kò mọ̀ pé ilẹ̀ ń gbona",
+    "literalGloss": "The person riding a bicycle on top does not feel that the ground is scorching hot",
+    "figurativeSense": "Those in comfortable or elevated positions are often oblivious to the sufferings of ordinary people.",
+    "englishEquivalents": [
+      "The privileged are blind to hardship",
+      "Out of touch with reality",
+      "Ignorant of the common struggle"
+    ],
+    "register": "colloquial",
+    "usageNote": "Said in social commentary regarding leaders who ignore grassroots problems.",
+    "isProverb": false,
+    "sourceNote": "seed placeholder — needs native-speaker review before production use",
+    "verified": false
+  }
+]

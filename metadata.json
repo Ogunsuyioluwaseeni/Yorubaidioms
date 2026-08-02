@@ -1,0 +1,6 @@
+{
+  "name": "YorùbáÒwe",
+  "description": "A bidirectional Yorùbá↔English idiom and proverb translation tool with context-aware disambiguation and curator tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
