@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # YorùbáÒwe (Yorùbá ↔ English Idiom & Proverb Translator)
 
 **YorùbáÒwe** is a bidirectional Yorùbá ↔ English idiom and proverb translation tool built on a four-layer architecture proposed in computational linguistics research ("Development of a Yorùbá Idiom-to-English and English-to-Yorùbá Text Translation System").
@@ -114,3 +115,6 @@ Entries follow this schema:
 ## ⚠️ Linguistic Notice & Disclaimer
 
 The starter seed data included in `src/data/lexicon.json` is a placeholder dataset provided solely to demonstrate end-to-end prototype functionality. All seed entries are marked `"verified": false`. Full linguistic and native-speaker review is required before deploying this system for production, research publication, or educational use.
+=======
+# Yorubaidioms
+>>>>>>> d442eebc2a976dc38622702da6b753f9f2e0c9c0
