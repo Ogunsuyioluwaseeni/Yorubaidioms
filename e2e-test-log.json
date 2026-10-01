@@ -1,0 +1,81 @@
+[
+  {
+    "translationId": "trans-1790892616963-274",
+    "originalText": "Àgbá òfìfo ní ńpariwo; àpò tó kún fówó kì í dún.",
+    "translatedText": "It is an empty barrel that is noisy; a sack full of money makes no sound.",
+    "sourceLang": "yo",
+    "targetLang": "en",
+    "overallConfidence": "idiom_match",
+    "fallbackUsed": false,
+    "segments": [
+      {
+        "text": "Àgbá òfìfo ní ńpariwo àpò tó kún fówó kì í dún",
+        "translatedText": "It is an empty barrel that is noisy; a sack full of money makes no sound.",
+        "confidence": "idiom_match",
+        "isIdiom": true,
+        "matchedSpan": {
+          "id": "span-1790892616989-0",
+          "startIndex": 0,
+          "endIndex": 11,
+          "startCharIndex": 0,
+          "endCharIndex": 47,
+          "originalSpanText": "Àgbá òfìfo ní ńpariwo àpò tó kún fówó kì í dún",
+          "normalizedSpanText": "agba ofifo ni npariwo apo to kun fowo ki i dun",
+          "matchedIdiomId": "yowe-426",
+          "matchedIdiom": {
+            "id": "yowe-426",
+            "yoruba": "Àgbá òfìfo ní ńpariwo; àpò tó kún fówó kì í dún.",
+            "literalGloss": "",
+            "figurativeSense": "It is an empty barrel that is noisy; a sack full of money makes no sound.",
+            "englishEquivalents": [
+              "It is an empty barrel that is noisy; a sack full of money makes no sound."
+            ],
+            "register": "proverbial",
+            "isProverb": true,
+            "sourceNote": "train.jsonl — translation from source collection; not yet native-speaker verified",
+            "verified": false
+          },
+          "translatedSpanText": "It is an empty barrel that is noisy; a sack full of money makes no sound.",
+          "confidence": "idiom_match",
+          "isFigurative": true,
+          "literalGloss": "",
+          "figurativeSense": "It is an empty barrel that is noisy; a sack full of money makes no sound.",
+          "disambiguationReason": "Matched canonical idiom form in lexicon without explicit literal markers."
+        }
+      }
+    ],
+    "spans": [
+      {
+        "id": "span-1790892616989-0",
+        "startIndex": 0,
+        "endIndex": 11,
+        "startCharIndex": 0,
+        "endCharIndex": 47,
+        "originalSpanText": "Àgbá òfìfo ní ńpariwo àpò tó kún fówó kì í dún",
+        "normalizedSpanText": "agba ofifo ni npariwo apo to kun fowo ki i dun",
+        "matchedIdiomId": "yowe-426",
+        "matchedIdiom": {
+          "id": "yowe-426",
+          "yoruba": "Àgbá òfìfo ní ńpariwo; àpò tó kún fówó kì í dún.",
+          "literalGloss": "",
+          "figurativeSense": "It is an empty barrel that is noisy; a sack full of money makes no sound.",
+          "englishEquivalents": [
+            "It is an empty barrel that is noisy; a sack full of money makes no sound."
+          ],
+          "register": "proverbial",
+          "isProverb": true,
+          "sourceNote": "train.jsonl — translation from source collection; not yet native-speaker verified",
+          "verified": false
+        },
+        "translatedSpanText": "It is an empty barrel that is noisy; a sack full of money makes no sound.",
+        "confidence": "idiom_match",
+        "isFigurative": true,
+        "literalGloss": "",
+        "figurativeSense": "It is an empty barrel that is noisy; a sack full of money makes no sound.",
+        "disambiguationReason": "Matched canonical idiom form in lexicon without explicit literal markers."
+      }
+    ],
+    "timestamp": "2026-10-01T22:10:16.989Z",
+    "createdAt": "2026-10-01T22:10:16.989Z"
+  }
+]
